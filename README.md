@@ -56,57 +56,57 @@ demands.
 
 Snap Shot:
 
- 
+ <img width="1920" height="1020" alt="Screenshot 2026-10-30 083914" src="https://github.com/user-attachments/assets/629fa765-b670-4648-9b17-ae04eb9d25e8" />
 
-Snapshot 1: Create VPC
- 
-Snapshot 2: Configuring Subnets
- 
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 083929" src="https://github.com/user-attachments/assets/d6824105-40a4-4cff-8647-3064f1243e68" />
 
-Snapshot 3: Configure Subnets
- 
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 083936" src="https://github.com/user-attachments/assets/e249774c-6972-4ef7-b89d-956af1c8f206" />
 
-Snapshot 4: Setting Internet gateway
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 083941" src="https://github.com/user-attachments/assets/aa5b861b-2267-4819-bfdb-a7de46e7e374" />
 
- 
-Snapshot 5: Setting Internet gateway
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 083946" src="https://github.com/user-attachments/assets/4fa32a8e-8fc3-487c-96c6-96aae545e316" />
 
 
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 084342" src="https://github.com/user-attachments/assets/af126a4f-dc74-4fd9-8f21-b0c0a2ec9e27" />
 
- 
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 084354" src="https://github.com/user-attachments/assets/4d20de49-dd68-4d7e-8cf0-fdbedf63dd4d" />
 
-Snapshot 6: Setting Internet gateway
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 085033" src="https://github.com/user-attachments/assets/6ea542c8-54d5-433c-9ea4-c90d959173ea" />
 
- 
-Snapshot 7: Creating route table
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 085123" src="https://github.com/user-attachments/assets/a15fec8f-7e2d-4ea8-b219-7debb663d98b" />
 
- 
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 085423" src="https://github.com/user-attachments/assets/2c04c731-1ee0-4c94-8b2d-cfe9b4454e3e" />
 
-Snapshot 8: Configuring route table
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 085620" src="https://github.com/user-attachments/assets/020742be-8b5e-4eda-9196-a7b8f5a906cf" />
 
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 085815" src="https://github.com/user-attachments/assets/a4a205e6-83a6-40c3-9523-82a223f53e91" />
 
- 
-Snapshot 9: Editing routes
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 085842" src="https://github.com/user-attachments/assets/95dd0729-0025-4863-b395-53166697ddcb" />
 
- 
-Snapshot 10: Creating route table
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 085908" src="https://github.com/user-attachments/assets/ba6034ff-7bf4-4e0f-8028-66958524d0a7" />
 
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 090159" src="https://github.com/user-attachments/assets/fd20ad03-1043-4bcb-8f65-b6213c470c6d" />
 
-
-
-
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 090306" src="https://github.com/user-attachments/assets/df0b523e-a35b-4309-ac92-e9da3c8d3796" />
 
 
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 090529" src="https://github.com/user-attachments/assets/e799ae9d-d39c-49b1-8caf-8160b635a211" />
 
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 090602" src="https://github.com/user-attachments/assets/df01667a-a1f1-46b0-9b26-60e8fda73984" />
 
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 091742" src="https://github.com/user-attachments/assets/f681ed20-5b70-4754-9d58-cfec81bda141" />
 
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 091752" src="https://github.com/user-attachments/assets/3c4c60dc-67f8-4e72-b984-7d8c035f85d3" />
 
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 091802" src="https://github.com/user-attachments/assets/89331c5c-6d37-4913-8bb8-9f2546a4beb2" />
 
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 091811" src="https://github.com/user-attachments/assets/095d84b9-c886-42a3-9dd7-0b763b685ce5" />
 
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 091820" src="https://github.com/user-attachments/assets/d536016d-b0fe-462b-bf3c-0672d90c3631" />
 
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 091843" src="https://github.com/user-attachments/assets/6d41ae4a-6f50-474c-92ff-b8198d952960" />
 
-
-
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 091843" src="https://github.com/user-attachments/assets/f309146c-375e-4e2b-a06e-01f82a448e9d" />
 
 
 Result:
